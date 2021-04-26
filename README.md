@@ -16,6 +16,7 @@ optional arguments:
 ```
 
 ## PoC video:
-<iframe width="1190" height="681" src="https://www.youtube.com/embed/T3RV5cvfkxg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![PoC](http://img.youtube.com/vi/T3RV5cvfkxg/0.jpg)](http://www.youtube.com/watch?v=T3RV5cvfkxg "Maian Cart preauth RCE")
+
 
 ## Author: DreyAnd, purpl3
