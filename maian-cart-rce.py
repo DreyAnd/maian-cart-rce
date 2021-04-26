@@ -3,8 +3,7 @@
 #Maian-Cart 3.8 unauthorized RCE trough Elfinder plugin.
 #Exploit found date: 27.11.2020 19:35
 #Tested on: Ubuntu 20.04 LTS
-#Google dork: "Powered by: Maian Cart"
-
+#Authors: DreyAnd, purpl3
 
 import argparse
 import requests
