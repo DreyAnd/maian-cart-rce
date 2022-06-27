@@ -1,6 +1,6 @@
 # Maian Cart 3.8 preauth RCE exploit
 
-## For technical details about the exploit: https://dreyand.rs/maian-cart-rce
+## For technical details about the exploit: https://dreyand.rs/post/maian-cart-rce/
 
 ## Exploit usage: 
 
